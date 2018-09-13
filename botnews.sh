@@ -1,4 +1,4 @@
- 
+ :ulang
 
 #!/bin/bash
 
@@ -122,3 +122,5 @@ botstart
 sleep 3
 
 done
+
+return ulang
